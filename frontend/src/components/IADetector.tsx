@@ -151,7 +151,7 @@ export function DetectorIA() {
           autoPlay
           playsInline
           muted
-          className="w-full h-96"
+          className="w-full h-1/2 object-cover"
         />
         <canvas ref={canvasRef} className="hidden" />
       </div>
